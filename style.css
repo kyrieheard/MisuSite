@@ -64,7 +64,7 @@ h2 {
 
 #container {
 
-	width: 940px;
+	width: 980px;
 	margin: 0 auto 0 auto;
 	padding: 20px;
 }
@@ -87,6 +87,7 @@ h2 {
 	float:left;
 	padding: 20px;
 	border-radius: 5px;
+	margin-left: 40px;
 
 }
 
